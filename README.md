@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|t|r|e|.|.|o|
+|t|r|e|l|l|o|
 |-|-|-|-|-|-|
 |1|2|3|4|5|6|
 
@@ -10,4 +10,4 @@
 ![gallow](./images/4.png)
 
 ## Beurten
-req: E, A, O, U, I, R, T
+req: E, A, O, U, I, R, T, L
